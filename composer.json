@@ -41,7 +41,8 @@
         "laravel/pint": "^1.19",
         "pestphp/pest": "^3.7",
         "phpstan/phpstan": "^2.1",
-        "rector/rector": "^2.0"
+        "rector/rector": "^2.0",
+        "symfony/var-dumper": "^7.2"
     },
     "scripts": {
         "refactor": "rector",
